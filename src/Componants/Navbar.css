@@ -1,0 +1,26 @@
+.navHead{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #1565C0;
+    /* position: absolute; */
+}
+.nav_head{
+    font-size: 30px;
+    color: #FFF;
+    padding: 2px;
+}
+.cart_div{
+    margin-left: 1392px;
+    position: absolute;
+    color: #FFF;
+}
+.cart{
+    margin-right: 7px;
+    font-size: 20px;
+    color: #FFF;
+}
+.countItem{
+    font-size: 20px;
+}
